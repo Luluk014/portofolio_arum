@@ -1,16 +1,16 @@
 
 /* Import font form fonts.css file */
-@import url(../CSS/font.css);
+@import url(font.css);
 
 
 /* css variable */
-@import url(../CSS/partials/_variables.css);
+@import url(partials/_variables.css);
 
 /* import global styling */
-@import url(../CSS/partials/_global.css);
+@import url(partials/_global.css);
 
 /* import _button */
-@import url(../CSS/partials/_button.css);
+@import url(partials/_button.css);
 
 
 /* start navigation */
